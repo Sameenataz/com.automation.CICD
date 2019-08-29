@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.automation.CICD.com.automation.CICD.TestClass1" duration-ms="23830" started-at="2019-08-29T13:29:02Z" finished-at="2019-08-29T13:29:26Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="23830" started-at="2019-08-29T13:29:02Z" finished-at="2019-08-29T13:29:26Z">
+      <class name="com.automation.CICD.com.automation.CICD.TestClass1">
+        <test-method status="PASS" signature="launchdriver()[pri:0, instance:com.automation.CICD.com.automation.CICD.TestClass1@2acf57e3]" name="launchdriver" is-config="true" duration-ms="5162" started-at="2019-08-29T13:29:02Z" finished-at="2019-08-29T13:29:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchdriver -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.automation.CICD.com.automation.CICD.TestClass1@2acf57e3]" name="test1" duration-ms="2136" started-at="2019-08-29T13:29:07Z" finished-at="2019-08-29T13:29:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.automation.CICD.com.automation.CICD.TestClass1@2acf57e3]" name="close" is-config="true" duration-ms="889" started-at="2019-08-29T13:29:09Z" finished-at="2019-08-29T13:29:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="launchdriver()[pri:0, instance:com.automation.CICD.com.automation.CICD.TestClass1@2acf57e3]" name="launchdriver" is-config="true" duration-ms="4240" started-at="2019-08-29T13:29:10Z" finished-at="2019-08-29T13:29:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchdriver -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:com.automation.CICD.com.automation.CICD.TestClass1@2acf57e3]" name="test2" duration-ms="10411" started-at="2019-08-29T13:29:15Z" finished-at="2019-08-29T13:29:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.automation.CICD.com.automation.CICD.TestClass1@2acf57e3]" name="close" is-config="true" duration-ms="946" started-at="2019-08-29T13:29:25Z" finished-at="2019-08-29T13:29:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.automation.CICD.com.automation.CICD.TestClass1 -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.automation.CICD.com.automation.CICD.TestClass1 -->
+</testng-results>
