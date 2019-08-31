@@ -32,7 +32,7 @@ public class TestClass1 {
 	@Test
 	public void test2() throws InterruptedException {
 		driver.get("https://www.google.com/");
-		driver.findElement(By.name("q")).sendKeys("Java Selenium");
+		driver.findElement(By.name("q")).sendKeys("Java Selenium TEST");
 		Thread.sleep(5000);
 		driver.findElement(By.xpath("//input[@name='btnK']")).click();
 		
